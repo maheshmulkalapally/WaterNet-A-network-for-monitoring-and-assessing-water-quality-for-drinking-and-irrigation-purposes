@@ -1,0 +1,35 @@
+WaterNet A Network for Monitoring and Assessing Water Quality for Drinking and Irrigation Purposes
+
+IEEE Transaction On Machine Learning,Volume:10,Issue Date:03.May.2022
+
+
+Cyber physical system, LoRa, drinking water, irrigation water, machine learning, water quality index, water monitoring network.
+
+
+WaterNet
+
+
+
+waternet
+
+
+
+assessing_water_quality
+
+
+RID
+State
+District_Name
+Place_Name
+ph
+Hardness
+Solids
+Chloramines
+Sulfate
+Conductivity
+Organic_carbon
+Trihalomethanes
+Turbidity
+Prediction
+
+
